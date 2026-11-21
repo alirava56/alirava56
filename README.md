@@ -1,8 +1,8 @@
 # Ali Rava
 
-**Backend Developer · Iran**
+**Software Developer · Backend Focus · Iran**
 
-I build HTTP APIs and backend services in TypeScript, JavaScript, and Python. My projects focus on request validation, reliable writes, and testing how services behave under retries and restarts.
+I build web applications, backend services, and developer tools with TypeScript, JavaScript, and Python. My work includes project management, automation, and systems that record and verify important events.
 
 ## Selected projects
 
@@ -18,7 +18,7 @@ I build HTTP APIs and backend services in TypeScript, JavaScript, and Python. My
 | Area | Stack |
 | --- | --- |
 | Languages | TypeScript, JavaScript, Python, SQL |
-| Backend and API design | Node.js, Express, Django, Django REST Framework, OpenAPI |
+| Backend | Node.js, Express, Django, Django REST Framework, OpenAPI |
 | Databases | SQLite, PostgreSQL |
 | Web interfaces | Next.js, React, Tailwind CSS |
 | Testing and delivery | `node:test`, Playwright, Git, GitHub Actions, Docker |
