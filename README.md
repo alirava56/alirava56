@@ -21,8 +21,8 @@ I build web applications, backend services, and developer tools with TypeScript,
 **Backend**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-297D3D?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-252B36?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-9D3422?style=for-the-badge) ![OpenAPI](https://img.shields.io/badge/OpenAPI-386B0F?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-**Databases**<br>
-![SQLite](https://img.shields.io/badge/SQLite-005B84?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases and ORM**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Django ORM](https://img.shields.io/badge/Django%20ORM-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 
 **Web interfaces**<br>
 ![Next.js](https://img.shields.io/badge/Next.js-1F2328?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-146C83?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-036B87?style=for-the-badge&logo=tailwindcss&logoColor=white)
